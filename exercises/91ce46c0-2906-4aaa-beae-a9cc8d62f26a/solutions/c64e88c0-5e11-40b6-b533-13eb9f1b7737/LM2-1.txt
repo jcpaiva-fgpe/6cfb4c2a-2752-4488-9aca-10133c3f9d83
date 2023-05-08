@@ -1,1 +1,1 @@
-¿Qué identificador (id) tiene el droide con nombre (name) “C-3PO”?
+number(/c3starwars/specie[@name="droids"]/character[@name="C-3PO"]/@id)
