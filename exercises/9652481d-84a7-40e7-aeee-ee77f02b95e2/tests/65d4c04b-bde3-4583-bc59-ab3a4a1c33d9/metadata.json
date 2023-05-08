@@ -1,1 +1,1 @@
-{"id":"65d4c04b-bde3-4583-bc59-ab3a4a1c33d9","arguments":[],"weight":"0","visible":false,"input":"c3starwars.xml","output":"LM2-1-output.txt","timeout":0,"feedback":[]}
+{"id":"65d4c04b-bde3-4583-bc59-ab3a4a1c33d9","arguments":[],"weight":"0","visible":"true","input":"c3starwars.xml","output":"LM2-1-output.txt","timeout":"0","feedback":[]}
